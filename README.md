@@ -11,7 +11,6 @@
 
 <body>
 <h1>President Obama</h1>
-![obamasecond](https://user-images.githubusercontent.com/37986932/38177924-bbd5ba9e-35cd-11e8-9973-d704ee446bf4.jpg)
 <img src="images/selma2.jpg"   alt="obama goes to Selma, AL"/>
 
 <h1 id="top">Obama the organizer</h1>
@@ -49,7 +48,7 @@ in Washington State and four years in Indonesia. <br> After graduating from <a h
 <a href="#obamacommunityorganizer">Go to Obama Community Organizer</a>
 <hr>
 
-<img src="images/obamasecond.jpg"   width="350" height="420" alt="obama president"/>
+<img src="![obamasecond](https://user-images.githubusercontent.com/37986932/38177924-bbd5ba9e-35cd-11e8-9973-d704ee446bf4.jpg)"   width="350" height="420" alt="obama president"/>
 
 
 
